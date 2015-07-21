@@ -1,4 +1,4 @@
-# Immutable-Design-Patterns-in-Ruby
+# Immutable Design Patterns in Ruby
 
 ## How to develop immutable objects in Ruby
 
