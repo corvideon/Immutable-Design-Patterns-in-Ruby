@@ -1,6 +1,6 @@
 # Immutable-Design-Patterns-in-Ruby
 
-How to develop immutable objects in Ruby
+## How to develop immutable objects in Ruby
 
 Functional Programming has seen a resurgence in interest in the last few years and is often mentioned in opposition to Object-Orientated Programming. 
 
